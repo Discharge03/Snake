@@ -1,0 +1,18 @@
+.title{
+    width=100%;
+    text-align: center;
+}
+body{
+    background-color: #dfe6e9;
+}
+.copy{
+    float:below;
+}
+
+#footer{
+    position: absolute;
+    bottom: 0px;
+    background-color: orange;
+    width: 100%;
+    text-align: center;
+}
